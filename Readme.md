@@ -1,1 +1,1 @@
-This is a SelectionSorting for school TAPproject.
+This is CountingSort for school TAPproject.
